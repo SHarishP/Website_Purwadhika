@@ -1,0 +1,12 @@
+1. Membuat program untuk menerima Inputan Angka, dan mencari tahu apakah bilangan tersebut termasuk ke dalam bilangan ganjil atau genap. Informasi bilangan tersebut dimunculkan pada Alert dan console.log
+
+2. Membuat program yang dapat menerima input dari prompt berupa berat badan dan juga tinggiu seseorang yangt selanjutnya akan menghitung BMI / IMT dengan rumus yang sudah tersedia IMT = massa (Kg) / tinggi(meter)^2
+
+3. Market v1.2
+	1. Tammbahkan variable stock untuk setiap produk
+	2. Jika user menginput quantity melebihi stock product, jumlah product akan menjadi nilai quantity dari produk tersebut.
+	3. Saat menampilkan informasi total yang harus dibayar, user akan diminta untuk input nominal uang untuk membayar.
+	4. Dari input user nantikan akan memiliki tiga kondifisi yang berbeda, yang akan mempengaruhi pesan pada alert yang akan muncul, pesan pada alert akan muncul berbeda tergantung kondisi yang ada. 
+		Kondisi ke-1 Jika user menginput dengan jumlah kurang dari seharusnya, munculkan alert 'Transaksi dibatalkan. Uang yang anda amsukkan kuran ...' dimana ... ini akan berisi nominal kurangnya
+		Kondisi ke-2 Jika user menginput dengan jumlah lebih dari seharusnya. Munculkan alert 'Terimakasih, Uang Kembali untuk anda ...'
+		Kondisi ke-3 Jika user menginput dengan jumlah yang sama dari seharusnya. Maka munculkan alert 'Terimakasih'
